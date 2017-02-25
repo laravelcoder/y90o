@@ -1,4 +1,12 @@
 wp-config.php
+backupcreator/*
+*.dat
+aiowps_backups
+cache
+.git/*
+.idea/*
+*.sublime-project
+*.sublime-*
 
 
 #################
